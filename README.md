@@ -11,10 +11,5 @@
 ### 无线网卡：dw1820a
 ### 有线网卡：Intel(R) Ethernet Connection I219-V
 
-#正常功能
-## wifi/蓝牙 正常
-## dp显示器声音正常
-## 投屏ipad正常
-
-#不正常功能
-##HDMI接口未适配
+# 问题
+只支持DP接口。不支持hdmi接口，其他一切正常
