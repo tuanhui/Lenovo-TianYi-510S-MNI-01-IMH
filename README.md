@@ -12,4 +12,8 @@
 ### 有线网卡：Intel(R) Ethernet Connection I219-V
 
 # 问题
-只支持DP接口。不支持hdmi接口，其他一切正常
+### 1、只支持DP接口。不支持hdmi接口，其他一切正常
+### 2、使用前记得自己重新生成序列号 工具下载地址：https://github.com/corpnewt/GenSMBIOS 
+
+
+``` https://github.com/corpnewt/ProperTree ```
