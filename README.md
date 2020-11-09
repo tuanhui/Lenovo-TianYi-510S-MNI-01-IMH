@@ -17,3 +17,6 @@
 
 
 ``` https://github.com/corpnewt/ProperTree ```
+
+
+# 不更换网卡，请使用intel网卡的EFI
